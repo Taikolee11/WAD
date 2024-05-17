@@ -1,6 +1,3 @@
-// app.js
-
-
 const restaurantModule = require('./Ryan_WAD');
 
 // Add a new restaurant
